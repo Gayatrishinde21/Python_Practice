@@ -2,7 +2,7 @@
 
 
 
-# I advance Created Flask application for cpu/memory utilization monitoring
+# In advance Created Flask application for cpu/memory utilization monitoring
 
 
 ![Screenshot 2025-01-10 123712](https://github.com/user-attachments/assets/ff350d95-08cc-4d9c-ad7b-e473c9f61242)
